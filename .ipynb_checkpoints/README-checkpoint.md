@@ -42,7 +42,12 @@ See the full analysis in the Jupyter Notebook or review this Presentation.
 For additional info, contact 
 * [Diana Ogeto] at [dianaogeto0@gmail.com].
 * [Joan Gathoni] at [sonnygathoni97@gmail.com].
-* [James Mwaura] at [mwaura.kimani@gmail.com].
-* [Bruce Siti]  at [brucesiti@gmail.com].
+* [James Mwaura] at [james.mwaura@student.moringaschool].
+* [Bruce Siti]  at [bruce.siti@student.moringaschool].
+
+
+
+
+
 
 
